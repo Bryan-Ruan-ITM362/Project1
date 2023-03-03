@@ -23,8 +23,6 @@ body{
  
 }
 
-
-
 .sign-in{
     background-color: white;
     display: flex;
@@ -61,12 +59,8 @@ body{
     padding: 0.4em 0.1em 0.4em 0.4em;
 }
 
-
-
-
-
 button{
-    background-color: #0856ee;
+    background-color: red;
     border: 0;
     border-radius: 0.5em;
     color: #ffffff;
