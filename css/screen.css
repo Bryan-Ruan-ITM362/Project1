@@ -19,9 +19,7 @@ body{
     body{
         
     }
-    .check-input li{
-        padding-right: 7.5em;
-    }
+ 
 }
 
 
@@ -43,28 +41,26 @@ body{
     margin: 0 auto;
 }
 
-.text-input li{
+.div input {
     display: flex;
     flex-direction: column;
     padding-bottom: 1em;
 }
 
-.text-input li label{
+.div label{
     font-size: 1.20em; 
     font-weight: 400;
     padding-bottom: 0.3em;
 }
 
-.text-input li input{
+.div input{
     border:1px solid #c3bfbf;
     font-size: 1em;
     outline: 0;
     padding: 0.4em 0.1em 0.4em 0.4em;
 }
 
-.text-input li input:focus-visible{
-    border:1px solid #c3bfbf;
-}
+
 
 
 
