@@ -9,13 +9,13 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 600px) {
     body{
        
     }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 600px) {
     body{
         
     }
