@@ -16,6 +16,12 @@ body{
     }
 }
 
+@media screen and (min-width: 600px) {
+    body{
+        background-image: url("../image/background.png");
+    }
+}
+
 @media screen and (orientation: landscape) {
     body{
         background-color: lightblue
