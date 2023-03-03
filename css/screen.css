@@ -39,8 +39,8 @@ body{
     border-radius: 3.2px;
 }
 
-.sign-in h2{
-    font-size: 25px; 
+.sign-in h1{
+    font-size: 50px; 
     width: max-content;
     padding: 0 0 16px 0;
     margin: 0 auto;
