@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="nojs">
 <head>
-	  .
   	  <title>Project 1</title>
   	  <meta charset="utf-8">
  	  <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no">
@@ -11,23 +10,27 @@
 <body>
 	  .
  	  <h1> Please Enter Your Info Below: </h1>
- 	  <form method="get" action="#null" autocomplete="on">
+ 	  <form class="sign in" method="get" action="#null" autocomplete="on">
   	  <div>
     		    <label for ="email">Email: </label>
-		    <input type="email" name="email_address" id="email" placeholder="Enter your email here!">
+		    <input type="text" name="email_address" id="email" pattern="^.+@.+$" placeholder="Enter your email here!">
   	  </div>
 	  <div>
-		    <label for ="phone">Phone Number: </label>
-		    <input type="tel" name="phone_number" id="phone" placeholder="Enter your phone number here!">
+		    <label for ="username">Username: </label>
+		    <input type="text" name="user_name" id="username" placeholder="Enter your username here!">
 	  </div>
 	  <div>
-		    <label for ="date">Date of Birth: </label>
-		    <input type="date" name="date_of_birth" id="date">
+		    <label for ="password">Password: </label>
+		    <input type="password" name="password" id="password" placeholder="Enter your password here!">
 	  </div>
   	  <div>
-		    <label for ="submit">Submit: </label>
-		    <input type="submit" name="submit_button" id="submit">
+		    <label for ="confirm-password">Confirm Password: </label>
+		    <input type="password" name="confirm_password" id="confirm_password" placeholder=" here!">
+	  </div>
+	  <div>
+		    <button type="submit" id="submit-btn" >Sign up</button>
 	  </div>
 	  </form>
+	  
 </body>
 </html>
