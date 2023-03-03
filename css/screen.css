@@ -44,6 +44,7 @@ body{
     width: max-content;
     padding: 0 0 16px 0;
     margin: 0 auto;
+    font-weight: bold;
 }
 
 .div input {
