@@ -28,13 +28,13 @@ body{
     display: flex;
     flex-direction: column;
     height: max-content;
-    padding: 1.1em 1.1em 1.1em 1.1em;
-    max-width: 70em;
-    border-radius: 0.2em;
+    padding: 17.6px 17.6px 17.6px 17.6px;
+    max-width: 1120px;
+    border-radius: 3.2px;
 }
 
 .sign-in h2{
-    font-size: 1.563em; 
+    font-size: 25px; 
     width: max-content;
     padding: 0 0 1em 0;
     margin: 0 auto;
@@ -43,28 +43,28 @@ body{
 .div input {
     display: flex;
     flex-direction: column;
-    padding-bottom: 1em;
+    padding-bottom: 16px;
 }
 
 .div label{
-    font-size: 1.20em; 
+    font-size: 19.2px; 
     font-weight: 400;
-    padding-bottom: 0.3em;
+    padding-bottom: 4.8px;
 }
 
 .div input{
     border:1px solid #c3bfbf;
-    font-size: 1em;
+    font-size: 30px;
     outline: 0;
-    padding: 0.4em 0.1em 0.4em 0.4em;
+    padding: 6.4px 1.6px 6.4px 6.4px;
 }
 
 button{
     background-color: red;
     border: 0;
-    border-radius: 0.5em;
+    border-radius: 8px;
     color: #ffffff;
-    font-size: 1.30em;
-    padding: 0.6em;
+    font-size: 30px;
+    padding: 9.6px;
 }
 
