@@ -24,7 +24,7 @@ body{
 }
 
 .sign-in{
-    background-color: blue;
+    background-color: white;
     display: flex;
     flex-direction: column;
     height: max-content;
