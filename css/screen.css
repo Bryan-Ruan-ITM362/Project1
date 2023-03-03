@@ -11,8 +11,9 @@ body{
 }
 
 @media screen and (max-width: 600px) {
-    body{
-        background-image: url("../image/background.png");
+    label{
+        font-weight: bold;
+        font-size: 25px; 
     }
 }
 
