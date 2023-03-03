@@ -66,14 +66,6 @@ body{
     border:1px solid #c3bfbf;
 }
 
-.check-input li{
-    font-size: 1.1em;
-    padding-bottom: 0.7em;
-}
-
-.check-input input, .check-input label{
-    font-size: 0.8em;
-}
 
 
 button{
