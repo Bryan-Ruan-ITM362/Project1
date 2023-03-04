@@ -22,7 +22,6 @@ body{
 
 @media screen and (min-width: 600px) and (min-width: 1200px){
     div{
-       font-weight: bold;
         font-size: 25px;
     }
 }
