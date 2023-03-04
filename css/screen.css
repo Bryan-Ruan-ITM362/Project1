@@ -18,9 +18,11 @@ body{
 }
 
 @media screen and (min-width: 600px) and (min-width: 1200px){
-    div{
+    body{
+          h1{
        font-weight: bold;
         font-size: 25px;
+        }
     }
 }
 
