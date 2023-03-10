@@ -10,7 +10,7 @@ body{
     font-family: "Verdana", sans-serif;
 }
 
-@media screen and (max-width: 600px) and (max-width: 1200px) {
+@media screen and (min-width: 720px){
     h1{
         font-weight: bold;
         font-size: 50px;
@@ -20,7 +20,7 @@ body{
     }
 }
 
-@media screen and (min-width: 600px) and (min-width: 1200px){
+@media screen and (min-width: 480px){
     div{
         font-size: 25px;
     }
