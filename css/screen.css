@@ -29,6 +29,9 @@ body{
     div{
         font-size: 25px;
     }
+    h1,label{
+     color:red;   
+    }
 }
 
 
@@ -62,7 +65,7 @@ body{
 }
 
 button{
-    background-color: red;
+    background-color: lime;
     border: 0;
     border-radius: 8px;
     color: #ffffff;
