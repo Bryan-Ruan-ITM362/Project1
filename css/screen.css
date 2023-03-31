@@ -36,6 +36,8 @@ body{
         font-weight: bold;
         font-size: 50px;
         width: max-content;
+        text-align: left;
+
     }
     .container {
      max-width: 800px;
