@@ -7,9 +7,12 @@ html, body{
     align-items: center;
     color:blue;
 }
-
-h3{
-        background-color: violet;
+p{
+    font-size: 10px;
+}
+h3{  
+    font-size: 25px;
+    background-color: violet;
 }
 label{
      align-items: center;   
