@@ -11,7 +11,7 @@ body{
     font-family: "Verdana", Arial;
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 1600px){
     h1{
         font-weight: bold;
         font-size: flex;
