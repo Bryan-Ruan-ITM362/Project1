@@ -75,12 +75,13 @@ body{
 button{
     background-color: lime;
     border: 0;
-    border-radius: 8px;
+    border-radius: 10px;
     color: #ffffff;
     font-size: 15px;
-    padding: 9.6px;
+    padding: 10px;
 }
 .bottom_bar{
+    height:100px;
     postion:fixed;
     bottom:0;
     left:0;
