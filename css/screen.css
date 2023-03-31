@@ -23,7 +23,7 @@ body{
 @media screen and (min-width: 1200px){
     h1{
         font-weight: bold;
-        font-size: 25px;
+        font-size: flex;
         width: max-content;
         padding: 0 0 16px 0;
         margin: 0 auto;
