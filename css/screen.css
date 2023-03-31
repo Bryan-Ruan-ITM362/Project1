@@ -3,7 +3,7 @@ html, body{
     background-image: url("../image/background.png");
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
-    text-align: center;
+    text-align: left;
     color:aqua;
 }
 h3{  
