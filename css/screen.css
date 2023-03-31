@@ -86,4 +86,12 @@ button{
     font-size: 15px;
     padding: 9.6px;
 }
-
+.bottom_bar{
+    postion:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    background:violet;
+    box-shadow:0 0 5px rba(0,0,0,0,25);
+    box-sizing:border-box;
+}
