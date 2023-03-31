@@ -9,7 +9,8 @@ html, body{
 h3{  
     font-size: 25px;
     background-color: violet;
-    bottom:0;
+    bottom: 0;
+    position: fixed;
 }
 
 body{
