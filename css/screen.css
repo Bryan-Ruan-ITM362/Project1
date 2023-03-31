@@ -8,6 +8,10 @@ html, body{
     color:blue;
 }
 
+h3{
+        background-color: violet;
+}
+
 body{
     font-family: "Verdana", sans-serif;
 }
