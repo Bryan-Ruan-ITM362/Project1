@@ -3,8 +3,8 @@ html, body{
     background-image: url("../image/background.png");
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
-    text-align: center;
-    align-items: center;
+    text-align: left;
+    align-items: left;
     color:blue;
 }
 p{
@@ -14,9 +14,7 @@ h3{
     font-size: 25px;
     background-color: violet;
 }
-label{
-     align-items: center;   
-}
+
 
 body{
     font-family: "Verdana", sans-serif;
