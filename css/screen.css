@@ -81,7 +81,7 @@ button{
     padding: 10px;
 }
 .bottom_bar{
-    height:100px;
+    height:25px;
     postion:fixed;
     bottom:0;
     left:0;
