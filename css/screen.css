@@ -94,4 +94,5 @@ button{
     background:violet;
     box-shadow:0 0 5px rba(0,0,0,0,25);
     box-sizing:border-box;
+    padding:10px;
 }
