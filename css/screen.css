@@ -80,7 +80,7 @@ button{
     font-size: 15px;
     padding: 10px;
 }
-.bottom_bar{
+.bar{
     height:25px;
     postion:fixed;
     bottom:0;
