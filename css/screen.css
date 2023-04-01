@@ -38,7 +38,10 @@ body{
    }
     label{
         color:red; 
-       front-size:15px;   
+       front-size:50px;
+    }
+    input{
+       front-size:50px;
     }
 }
 
