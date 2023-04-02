@@ -17,20 +17,21 @@ body{
         font-size: 15px;
         width: max-content;
         padding: 0 0 16px 0;
-        margin: 0 auto;
+        margin: 16px 0;
     }
     .container {
       max-width: 1200px;
     }
-     label{ 
-        front-size:25px; 
-        font-weight: 200;
+     label{
+         front-size:25px; 
+         font-weight: 200;
+         margin: 8px 0;
 
     }
     input{
-       front-size:25px;   
-       font-weight: 200;
-
+        front-size:25px;   
+        font-weight: 200;
+        margin: 8px 0;
     }
 }
 
@@ -50,11 +51,13 @@ body{
         color:red; 
         front-size:50px;
         font-weight: 400;
+        margin: 16px 0;
 
     }
     input{
        front-size:50px;
        font-weight: 400;
+       margin: 16px 0;
     }
 }
 
