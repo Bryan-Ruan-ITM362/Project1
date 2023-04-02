@@ -22,6 +22,16 @@ body{
     .container {
       max-width: 1200px;
     }
+     label{ 
+        front-size:25px; 
+        font-weight: 200;
+
+    }
+    input{
+       front-size:25px;   
+       font-weight: 200;
+
+    }
 }
 
 @media screen and (min-width: 800px){
@@ -38,10 +48,13 @@ body{
    }
     label{
         color:red; 
-       front-size:50px;
+        front-size:50px;
+        font-weight: 400;
+
     }
     input{
        front-size:50px;
+       font-weight: 400;
     }
 }
 
